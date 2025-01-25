@@ -7,3 +7,7 @@ An GUI &amp; Fast Tool to activate Windows for free.
 **Extract the Zip File**
 **Go to the folder**
 **Start the executable depending on your Windows .**
+## Need to branding the tool to your name?
+Contact me ! 
+> Discord : @xteeeq
+> Email : contact.webdriver@gmail.com
